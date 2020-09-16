@@ -1,0 +1,204 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2854",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Tanehu's Anime World",
+  "version": "1.0.0",
+  "author": "Tenchu98_1",
+  "files": [
+    {
+      "projectID": 232758,
+      "fileID": 3010617,
+      "required": true
+    },
+    {
+      "projectID": 368098,
+      "fileID": 3024338,
+      "required": true
+    },
+    {
+      "projectID": 273362,
+      "fileID": 2710510,
+      "required": true
+    },
+    {
+      "projectID": 352557,
+      "fileID": 3054837,
+      "required": true
+    },
+    {
+      "projectID": 319125,
+      "fileID": 2778295,
+      "required": true
+    },
+    {
+      "projectID": 250586,
+      "fileID": 2773006,
+      "required": true
+    },
+    {
+      "projectID": 295209,
+      "fileID": 2638001,
+      "required": true
+    },
+    {
+      "projectID": 228948,
+      "fileID": 2891787,
+      "required": true
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2779848,
+      "required": true
+    },
+    {
+      "projectID": 383721,
+      "fileID": 2958055,
+      "required": true
+    },
+    {
+      "projectID": 389685,
+      "fileID": 3013250,
+      "required": true
+    },
+    {
+      "projectID": 224602,
+      "fileID": 2766432,
+      "required": true
+    },
+    {
+      "projectID": 368991,
+      "fileID": 2909300,
+      "required": true
+    },
+    {
+      "projectID": 312309,
+      "fileID": 2997293,
+      "required": true
+    },
+    {
+      "projectID": 291007,
+      "fileID": 3021229,
+      "required": true
+    },
+    {
+      "projectID": 291142,
+      "fileID": 2697612,
+      "required": true
+    },
+    {
+      "projectID": 242500,
+      "fileID": 3008088,
+      "required": true
+    },
+    {
+      "projectID": 272450,
+      "fileID": 2968094,
+      "required": true
+    },
+    {
+      "projectID": 340860,
+      "fileID": 2960128,
+      "required": true
+    },
+    {
+      "projectID": 292356,
+      "fileID": 2643036,
+      "required": true
+    },
+    {
+      "projectID": 256178,
+      "fileID": 2953991,
+      "required": true
+    },
+    {
+      "projectID": 290686,
+      "fileID": 2544580,
+      "required": true
+    },
+    {
+      "projectID": 309178,
+      "fileID": 2651671,
+      "required": true
+    },
+    {
+      "projectID": 332360,
+      "fileID": 2805022,
+      "required": true
+    },
+    {
+      "projectID": 310187,
+      "fileID": 3024340,
+      "required": true
+    },
+    {
+      "projectID": 248353,
+      "fileID": 2988576,
+      "required": true
+    },
+    {
+      "projectID": 345034,
+      "fileID": 2939279,
+      "required": true
+    },
+    {
+      "projectID": 229260,
+      "fileID": 2628698,
+      "required": true
+    },
+    {
+      "projectID": 229261,
+      "fileID": 2859433,
+      "required": true
+    },
+    {
+      "projectID": 262292,
+      "fileID": 2463637,
+      "required": true
+    },
+    {
+      "projectID": 331638,
+      "fileID": 2751236,
+      "required": true
+    },
+    {
+      "projectID": 270871,
+      "fileID": 2963260,
+      "required": true
+    },
+    {
+      "projectID": 386180,
+      "fileID": 2985357,
+      "required": true
+    },
+    {
+      "projectID": 241596,
+      "fileID": 3039993,
+      "required": true
+    },
+    {
+      "projectID": 60028,
+      "fileID": 2659258,
+      "required": true
+    },
+    {
+      "projectID": 242872,
+      "fileID": 2905184,
+      "required": true
+    },
+    {
+      "projectID": 361529,
+      "fileID": 2929693,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
